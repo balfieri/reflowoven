@@ -1,4 +1,4 @@
-// Internet of Things App
+// Toaster Solder Reflow Oven
 //
 // This example code is in the Public Domain.
 //
